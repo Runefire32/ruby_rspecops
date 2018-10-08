@@ -1,3 +1,8 @@
+travail en groupe avec simon
+slack ; Thomas Giannetti
+
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
